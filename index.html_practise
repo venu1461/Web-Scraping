@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My First Web Page</title>
+</head>
+<body>
+  <h1>Welcome to My Website pad</h1>
+  <h2> Welcome</h2>
+  <h3> Welcome to job pad</h3>
+  <p class='info'>This is a paragraph of text on my first HTML page.</p>
+  <p class="info" id='purchase'> this is u can buy</p>
+  <ul id=" 'products">
+    <li>HTML basics</li>
+    <li> <a href='https://youtube.com'>laptop</a></li>
+    <li>Creating headings</li>
+    <li>Adding lists</li>
+  </ul>
+  <ul>
+    <li> your otp is 3456, do not share it</li>
+    <li> your otp is 7476, do not share it</li>
+    <li> your otp is 9556, do not share it</li>
+    <li> your otp is 1456, do not share it</li>
+  </ul>
+  <p>for more information,<a href="https://example.com"> visit our website</a>.</p>
+</body>
+</html>
